@@ -1,1 +1,1 @@
-install.packages("IRkernel")
+R.home()
